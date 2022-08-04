@@ -4,7 +4,7 @@ In order to run this code you should have access to a GCP project with Cloud Sto
 In this use case I also created a cloud scheduler job in GCP which trigger this function and generates the report in CSV format  
 
 
-# Requeriments
+# How to run this in GCP
 
 1. Create a service account in your GCP Project with permissions on BigQuery and CloudStorage services
 2. Create a new cloud function in GCP
