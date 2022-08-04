@@ -1,0 +1,7 @@
+google-api-python-client
+google-cloud-storage
+google-cloud-bigquery<3.0.0
+pandas
+pyarrow
+
+
