@@ -1,5 +1,6 @@
 # pythonBigQueryReport
 This python code extracts data from BigQuery and creates a CSV file in a Cloud Storage container
+In order to run this code you should have a GCP project and environment
 
 
 # Requeriments
