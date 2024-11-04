@@ -1,7 +1,7 @@
 # pythonBigQueryReport
-This python code extracts data from BigQuery and creates a CSV file in a Cloud Storage container  
+This Google Cloud Function written in python extracts data from BigQuery and creates a CSV file in a Cloud Storage container  
 In order to run this code you should have access to a GCP project with Cloud Storage / Big Query services  
-In this use case I also created a cloud scheduler job in GCP which trigger this function and generates the report in CSV format  
+In this use case I also created a cloud scheduler job in GCP which triggers this function and generates the report in CSV format  
 
 
 # How to run this in GCP
